@@ -6,12 +6,14 @@ This project is written in Rust and aims to provide a program for structuring ca
 
 Make sure you have Rust and Cargo installed on your system. If not, you can install them by following the official Rust installation guide: [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
+The URL to the document used to structure the project: https://chem.libretexts.org/Courses/University_of_Kentucky/UK%3A_CHE_103_-_Chemistry_for_Allied_Health_(Soult)/Chapters/Chapter_5%3A_Properties_of_Compounds/5.2%3A_Carbohydrate_Structures
+
 ## Getting Started
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/carbohydrate-structure-project.git
+   git clone https://github.com/your-username/carbohydrate.git
    ```
 
 2. Navigate to the project directory:
