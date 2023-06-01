@@ -47,5 +47,3 @@ Please ensure that your code follows the project's coding conventions and includ
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to modify the content according to your project's specific requirements and add additional sections as needed.
