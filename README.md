@@ -1,4 +1,3 @@
-```
 # Carbohydrate Structure Project
 
 This project is written in Rust and aims to provide a program for structuring carbohydrates.
